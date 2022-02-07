@@ -20,7 +20,7 @@ public class PalindromeString
             rev = rev + str.charAt(i);
             }
         if(org_str.equals(rev))
-            }
+            {
             System.out.println(org_str+" is Palindrome String");
             }
         else
